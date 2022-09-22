@@ -2,7 +2,7 @@ Assignment 3 - Persistence: Two-tier Web Application with Database, Express serv
 ===
 
 Due: September 23th, by 11:59 AM.
-https://a3-ka.glitch.me/login
+https://a3-ka.glitch.me/
 
 This assignnment continues where we left off, extending it to use the most popular Node.js server framework (express), 
 a database (mongodb), and a CSS application framework / template of your choice (Boostrap, Material Design, Semantic UI, Pure etc.)
